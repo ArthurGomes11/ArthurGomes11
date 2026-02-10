@@ -18,7 +18,7 @@ Sou motivado pela busca contínua por soluções eficientes e alinhadas às boas
 
 ## 💼 Experiência Profissional
 
-**DevSecOps - Compass UOL** (Jul 2025 - Atual)
+**DevSecOps - Compass UOL** (Jul 2025 - Dez 2025)
 * Atuação em programa de capacitação com foco em práticas DevSecOps.
 * Gerenciamento e otimização de ambientes Linux e servidores.
 * Implementação e orquestração de contêineres com Docker e Kubernetes.

@@ -1,61 +1,78 @@
-# Arthur Henrike Lacerda Modesto Gomes
+# Olá! 👋 Sou o Arthur Gomes
 
-Olá! 👋 Sou um profissional de TI com experiência em infraestrutura e suporte técnico, atualmente em transição e aprofundamento na área de DevSecOps. Minha paixão é criar e manter sistemas eficientes, seguros e estáveis, aplicando as melhores práticas do mercado.
+**DevSecOps | AWS Agentic AI Builder | Cloud & Automação**
 
-Atualmente, participo de um programa de capacitação em DevSecOps na **Compass UOL**, onde estou aprimorando minhas habilidades em automação, orquestração de contêineres e gerenciamento de ambientes em nuvem.
+Sou um profissional de tecnologia apaixonado por criar sistemas eficientes, seguros e autônomos. Comecei minha carreira garantindo a estabilidade de infraestruturas críticas e, hoje, uno **Engenharia de Dados, Cloud e Inteligência Artificial** para construir soluções de alto impacto.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Arthur_Gomes-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/arthur-gomes-243413210/)
-[![GitHub](https://img.shields.io/badge/GitHub-ArthurGomes11-181717?style=for-the-badge&logo=github)](https://github.com/ArthurGomes11)
-[![Email](https://img.shields.io/badge/Email-arthurhlmgomes@gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:arthurhlmgomes@gmail.com)
+Atualmente, faço parte do **Bootcamp Fellowship AWS Agentic AI Builder na Compass UOL**, onde atuo no desenvolvimento de Agentes de IA autônomos e no provisionamento de arquiteturas na nuvem (AWS), sempre guiado pelas melhores práticas de DevSecOps e automação.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthurhlmgomes/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ArthurGomes11)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arthurhlmgomes@gmail.com)
 
 ---
 
-## 🚀 Sobre Mim
+## 🏆 Certificações
 
-Com início de carreira em 2024, atuei diretamente na manutenção de infraestrutura de TI e na segurança de sistemas críticos em ambiente hospitalar. Essa experiência me proporcionou uma base sólida em redes, servidores, virtualização (VMware) e políticas de segurança, além de suporte técnico de 1º e 2º nível.
+* **AWS Certified Cloud Practitioner**
+* **AWS Introduction to Generative AI**
 
-Sou motivado pela busca contínua por soluções eficientes e alinhadas às boas práticas da área, sempre com foco na proteção de dados e nos princípios da LGPD.
+---
 
-## 💼 Experiência Profissional
+## 🚀 O que eu faço? (Experiência Profissional)
 
-**DevSecOps - Compass UOL** (Jul 2025 - Dez 2025)
-* Atuação em programa de capacitação com foco em práticas DevSecOps.
-* Gerenciamento e otimização de ambientes Linux e servidores.
-* Implementação e orquestração de contêineres com Docker e Kubernetes.
-* Administração de serviços na AWS com foco em otimização de custos (FinOps).
-* Aplicação de metodologias ágeis como Scrum para otimização de fluxos de trabalho.
-* Desenvolvimento de automações com Shell Script e gerenciamento de rotinas em nuvem.
+### ☁️ Fellowship AWS Agentic AI Builder (Data Eng.) @ Compass UOL 
+* Atuação na intersecção entre Engenharia de Dados e Inteligência Artificial na nuvem AWS.
+* Desenvolvimento de **Agentic AI** (Agentes de IA) autônomos utilizando **Python** para resolver problemas reais de negócio.
+* Aplicação de práticas de DevSecOps, orquestração de contêineres e automação de rotinas em nuvem.
 
-**Técnico em Informática - Hospital Cooperar Unimed** (Jan 2024 - Jun 2025)
-* Instalação, configuração e manutenção de equipamentos de TI e dispositivos médicos.
-* Administração de servidores, redes estruturadas, acesso remoto e serviços como DHCP e GPO.
-* Implementação de políticas de segurança e virtualização com VMware.
-* Aplicação de boas práticas da LGPD no tratamento de dados sensíveis.
+### 🏥 Técnico em TI e Suporte a Sistemas @ Hospital Cooperar Unimed
+* Garantia de alta disponibilidade e estabilidade de infraestrutura crítica em ambiente hospitalar.
+* Mapeamento de processos operacionais e uso de consultas **SQL** para diagnóstico de falhas em sistemas ERP.
+* Administração de redes, servidores, virtualização (VMware) e políticas de segurança (GPO) alinhadas à LGPD.
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+**Cloud & DevSecOps**
+<br>
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+**Linguagens & Bancos de Dados**
+<br>
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Infraestrutura & Redes**
+<br>
+![VMware](https://img.shields.io/badge/vmware-%23607078.svg?style=for-the-badge&logo=vmware&logoColor=white)
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Security](https://img.shields.io/badge/Security-InfoSec-red?style=for-the-badge)
+
+---
 
 ## 🎓 Formação Acadêmica
 
-* **Análise e Desenvolvimento de Sistemas** (Cursando) - IFRO Campus Vilhena (Jan 2024 - cursando)
-    * Habilidades desenvolvidas em TypeScript, JavaScript, Kotlin, sistemas Linux e versionamento com Git/GitHub/GitLab.
-* **Técnico em Informática** - IFRO Campus Vilhena (Jan 2021 - 2023)
-    * Base sólida em manutenção de computadores e linguagens como MySQL, C# e Python.
+* **Análise e Desenvolvimento de Sistemas** - IFRO Campus Vilhena *(5º Semestre)*
+  * *Projeto de Destaque:* TCC focado na criação de uma interface Low-Code para geração de Infraestrutura como Código (IaC).
+* **Técnico em Informática** - IFRO Campus Vilhena *(Concluído em 2023)*
 
-## 🛠️ Hard Skills
+---
 
-**Cloud & DevOps:**
-AWS | Docker | Kubernetes | Linux | Shell Script | Git | GitHub | GitLab
+## 📊 Estatísticas
 
-**Infraestrutura & Redes:**
-Redes (Switches, Roteadores) | Servidores | VMware | GPO (Group Policy Object) | DHCP | Segurança da Informação
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurGomes11&layout=compact&theme=tokyonight&count_private=true" alt="Top Languages" />
+</div>
 
-**Desenvolvimento:**
-TypeScript | JavaScript | React | NextJS | Python | C# | MongoDB | MySQL
+<br>
 
-**Metodologias e Outros:**
-Scrum | Kanban | LGPD (Boas Práticas) | Suporte Técnico | Figma
-## 📊 Estatísticas do GitHub
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurGomes11&layout=compact&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
-## ✨ Soft Skills
-
-Trabalho em equipe | Sociável | Comunicação Eficaz | Resolução de Problemas | Aprendizado Contínuo
+<div align="center">
+  <em>"A tecnologia só cumpre o seu papel quando simplifica a vida das pessoas e torna os negócios mais eficientes."</em>
+</div>
